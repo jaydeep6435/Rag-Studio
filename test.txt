@@ -1,0 +1,68 @@
+ARTIFICIAL INTELLIGENCE (AI) - DETAILED NOTES
+
+1. Introduction to AI
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+AI systems can analyze data, recognize patterns, and make decisions with minimal human intervention.
+
+2. Types of AI
+AI can be classified into three main types:
+
+a) Narrow AI (Weak AI)
+- Designed for a specific task
+- Examples: Voice assistants, recommendation systems
+
+b) General AI (Strong AI)
+- Can perform any intellectual task like humans
+- Still under research
+
+c) Super AI
+- Surpasses human intelligence
+- Theoretical concept
+
+3. Applications of AI
+AI is widely used in various fields:
+
+- Healthcare: Disease detection, medical imaging
+- Finance: Fraud detection, algorithmic trading
+- Transportation: Self-driving cars
+- Education: Personalized learning
+- E-commerce: Recommendation systems
+
+4. AI Techniques
+AI uses several techniques:
+
+- Machine Learning (ML): Learning from data
+- Deep Learning: Neural networks with multiple layers
+- Natural Language Processing (NLP): Understanding human language
+- Computer Vision: Interpreting images and videos
+
+5. Machine Learning Overview
+Machine Learning is a subset of AI where systems learn from data.
+
+Types:
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+
+6. Advantages of AI
+- Reduces human effort
+- Increases efficiency and accuracy
+- Works 24/7
+- Handles large data
+
+7. Disadvantages of AI
+- High cost of implementation
+- Job displacement
+- Lack of creativity
+- Dependence on machines
+
+8. Future of AI
+AI is rapidly evolving and will impact every industry. Future developments include:
+- Advanced robotics
+- Smart cities
+- AI-powered healthcare
+- Autonomous systems
+
+Conclusion:
+AI is transforming the world by making machines intelligent. It has great potential but also requires ethical and responsible use.
