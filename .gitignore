@@ -1,16 +1,38 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.py[cod]
 build/
 dist/
 wheels/
 *.egg-info
 
+# Testing / type check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
 # Virtual environments
-.venv
+.venv/
+venv/
+ENV/
 
 # Local secrets and environment files
 .env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+Thumbs.db
+.DS_Store
+.vscode/
 
 # Generated vector database artifacts
 data/vector_store/
+
+# Local PDFs are usually large and private
+data/pdf_files/
+
+# Local sample PDF created during experiments
+multimodal_sample.pdf
